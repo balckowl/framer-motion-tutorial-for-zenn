@@ -1,27 +1,12 @@
-# React + TypeScript + Vite
+#　Framer Motion実践入門
+Framer Motionの基礎をハンズオン形式で学べる本をZennに投稿しました。
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 本のリンク📚
+[Framer Motion実践入門はこちら](https://zenn.dev/y_ta/books/62a676a1d22982)
 
-Currently, two official plugins are available:
+## 作品リンク🔗
+なし
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 技術スタック🚀
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![技術スタック](https://storage.googleapis.com/zenn-user-upload/0750703d6b63-20240203.png)
