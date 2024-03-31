@@ -1,4 +1,4 @@
-#　Framer Motion実践入門
+# Framer Motion実践入門
 Framer Motionの基礎をハンズオン形式で学べる本をZennに投稿しました。
 
 ## 本のリンク📚
